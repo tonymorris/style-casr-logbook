@@ -1,0 +1,38 @@
+html{
+  font-family: "Inconsolata";
+  color: black;
+}
+
+.casr-logbook {
+  max-width: 940px;
+  margin: 10px auto 10px auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  font-size: xx-small;
+  text-align: center;
+}
+
+.austlii {
+  font-style: italic;
+}
+
+.personal {
+  background-color: #d3d3d3;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+.personalinfo {
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+}
